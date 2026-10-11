@@ -1,0 +1,37 @@
+command_id: 6F1.607.22E5CE|e=07,fc=1
+test_cases:
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 24.91
+  response: |-
+    607F1100962E5CE09BB
+    607F121095809FD
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 24.93
+  response: |-
+    607F1100962E5CE09BD
+    607F121095A09FF
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 25.34
+  response: |-
+    607F1100962E5CE09E6
+    607F12109840A28
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 25.9
+  response: |-
+    607F1100962E5CE0A1E
+    607F12109BD0A60
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 26.57
+  response: |-
+    607F1100962E5CE0A61
+    607F1210A000AA3
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 26.72
+  response: |-
+    607F1100962E5CE0A70
+    607F1210A0F0AB1
+- expected_values:
+    S2PHEV_HVBAT_SOC_V2: 27.2
+  response: |-
+    607F1100962E5CE0AA0
+    607F1210A400AE1

@@ -1,0 +1,17 @@
+command_id: 6F1.607.22E5C7|e=07,fc=1
+test_cases:
+- expected_values:
+    S2PHEV_HVBAT_SOH_V2: 50
+  response: |-
+    607F1100762E5C71479
+    607F1211932
+- expected_values:
+    S2PHEV_HVBAT_SOH_V2: 51
+  response: |-
+    607F1100762E5C71489
+    607F1211933
+- expected_values:
+    S2PHEV_HVBAT_SOH_V2: 51
+  response: |-
+    607F1100762E5C7148B
+    607F1211933

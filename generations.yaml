@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_2_Series_Active_Tourer"
+
+generations:
+  - name: "F45 225xe"
+    start_year: 2016
+    end_year: 2021
+    description: "The plug-in hybrid Active Tourer with a 1.5 L three-cylinder and a rear electric motor."
+  - name: "U06 225e/230e"
+    start_year: 2022
+    end_year: null
+    description: "The plug-in hybrid second-generation Active Tourer."

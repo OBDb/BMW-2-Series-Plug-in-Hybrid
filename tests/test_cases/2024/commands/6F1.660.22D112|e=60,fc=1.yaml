@@ -1,0 +1,20 @@
+command_id: 6F1.660.22D112|e=60,fc=1
+test_cases:
+- expected_values:
+    S2PHEV_AAT: 16.5
+  response: 660F10562D1127180
+- expected_values:
+    S2PHEV_AAT: 16.5
+  response: 660F10562D1127181
+- expected_values:
+    S2PHEV_AAT: 17
+  response: 660F10562D1127281
+- expected_values:
+    S2PHEV_AAT: 17
+  response: 660F10562D1127282
+- expected_values:
+    S2PHEV_AAT: 17
+  response: 660F10562D1127283
+- expected_values:
+    S2PHEV_AAT: 17
+  response: 660F10562D1127284
